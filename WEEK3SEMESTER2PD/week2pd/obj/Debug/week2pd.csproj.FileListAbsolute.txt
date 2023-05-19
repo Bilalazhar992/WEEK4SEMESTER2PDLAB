@@ -1,0 +1,21 @@
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2pd\week2pd\bin\Debug\week2pd.exe.config
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2pd\week2pd\bin\Debug\week2pd.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2pd\week2pd\bin\Debug\week2pd.pdb
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2pd\week2pd\obj\Debug\week2pd.csproj.AssemblyReference.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2pd\week2pd\obj\Debug\week2pd.csproj.CoreCompileInputs.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2pd\week2pd\obj\Debug\week2pd.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2pd\week2pd\obj\Debug\week2pd.pdb
+D:\week2semesterpd\week2pd\obj\Debug\week2pd.csproj.AssemblyReference.cache
+D:\week2semesterpd\week2pd\obj\Debug\week2pd.csproj.CoreCompileInputs.cache
+D:\week2semesterpd\week2pd\obj\Debug\week2pd.exe
+D:\week2semesterpd\week2pd\obj\Debug\week2pd.pdb
+D:\week2semesterpd\week2pd\bin\Debug\week2pd.exe.config
+D:\week2semesterpd\week2pd\bin\Debug\week2pd.exe
+D:\week2semesterpd\week2pd\bin\Debug\week2pd.pdb
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2semesterpd\week2pd\bin\Debug\week2pd.exe.config
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2semesterpd\week2pd\bin\Debug\week2pd.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2semesterpd\week2pd\bin\Debug\week2pd.pdb
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2semesterpd\week2pd\obj\Debug\week2pd.csproj.AssemblyReference.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2semesterpd\week2pd\obj\Debug\week2pd.csproj.CoreCompileInputs.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2semesterpd\week2pd\obj\Debug\week2pd.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\week2semesterpd\week2pd\obj\Debug\week2pd.pdb

@@ -1,0 +1,7 @@
+C:\Users\uet\Desktop\PRACTICING C SHARP\businessaplicationweek4pd2022-CS-196rollno\businessaplicationweek4pd2022-CS-196rollno\obj\Debug\businessaplicationweek4pd2022-CS-196rollno.csproj.AssemblyReference.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\businessaplicationweek4pd2022-CS-196rollno\businessaplicationweek4pd2022-CS-196rollno\obj\Debug\businessaplicationweek4pd2022-CS-196rollno.csproj.CoreCompileInputs.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\businessaplicationweek4pd2022-CS-196rollno\businessaplicationweek4pd2022-CS-196rollno\bin\Debug\businessaplicationweek4pd2022-CS-196rollno.exe.config
+C:\Users\uet\Desktop\PRACTICING C SHARP\businessaplicationweek4pd2022-CS-196rollno\businessaplicationweek4pd2022-CS-196rollno\bin\Debug\businessaplicationweek4pd2022-CS-196rollno.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\businessaplicationweek4pd2022-CS-196rollno\businessaplicationweek4pd2022-CS-196rollno\bin\Debug\businessaplicationweek4pd2022-CS-196rollno.pdb
+C:\Users\uet\Desktop\PRACTICING C SHARP\businessaplicationweek4pd2022-CS-196rollno\businessaplicationweek4pd2022-CS-196rollno\obj\Debug\businessaplicationweek4pd2022-CS-196rollno.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\businessaplicationweek4pd2022-CS-196rollno\businessaplicationweek4pd2022-CS-196rollno\obj\Debug\businessaplicationweek4pd2022-CS-196rollno.pdb

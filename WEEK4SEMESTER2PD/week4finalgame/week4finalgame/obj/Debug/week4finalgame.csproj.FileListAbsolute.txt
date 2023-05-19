@@ -1,0 +1,10 @@
+C:\Users\uet\Desktop\PRACTICING C SHARP\week4finalgame\week4finalgame\bin\Debug\week4finalgame.exe.config
+C:\Users\uet\Desktop\PRACTICING C SHARP\week4finalgame\week4finalgame\bin\Debug\week4finalgame.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\week4finalgame\week4finalgame\bin\Debug\week4finalgame.pdb
+C:\Users\uet\Desktop\PRACTICING C SHARP\week4finalgame\week4finalgame\bin\Debug\EZInput.dll
+C:\Users\uet\Desktop\PRACTICING C SHARP\week4finalgame\week4finalgame\bin\Debug\EZInput.xml
+C:\Users\uet\Desktop\PRACTICING C SHARP\week4finalgame\week4finalgame\obj\Debug\week4finalgame.csproj.AssemblyReference.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\week4finalgame\week4finalgame\obj\Debug\week4finalgame.csproj.CoreCompileInputs.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\week4finalgame\week4finalgame\obj\Debug\week4finalgame.csproj.CopyComplete
+C:\Users\uet\Desktop\PRACTICING C SHARP\week4finalgame\week4finalgame\obj\Debug\week4finalgame.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\week4finalgame\week4finalgame\obj\Debug\week4finalgame.pdb
